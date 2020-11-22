@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def user_input():
     """
     user inputs which column they want to put the puck in
