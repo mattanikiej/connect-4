@@ -2,7 +2,7 @@
 The game is entirely console based, and is played with 2 players.
 
 # How to play
-All you have to do to play is run the connect4.py file.
+All you have to do to play is run the connect4.py file in your console or any IDE of your choosing.
 Each player will then take a turn selecting a column [1 - 7].
 That player's "puck" will be slotted into the lowest available spot in the column.
 
